@@ -1,0 +1,5 @@
+cn\study\hello\spring\cloud\web\admin\feign\service\hystrix\AdminServiceHystrix.class
+cn\study\hello\spring\cloud\web\admin\feign\WebAdminFeignApplication.class
+cn\study\hello\spring\cloud\web\admin\feign\config\HystrixDashboardConfiguration.class
+cn\study\hello\spring\cloud\web\admin\feign\controller\AdminController.class
+cn\study\hello\spring\cloud\web\admin\feign\service\AdminService.class
